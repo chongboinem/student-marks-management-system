@@ -1,2 +1,9 @@
 # student-marks-management-system
-To manage students' marks
+
+A system that helps manage students' marks
+It can:
+1. Calculate the Average
+2. Find the Highest Mark
+3. Find the Lowest Mark
+4. Sort Marks in Ascending order
+5. Sort Marks in Descending order
