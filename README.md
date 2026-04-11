@@ -1,7 +1,7 @@
 # student-marks-management-system
 
-A system that helps manage students' marks
-It can:
+A system that helps manage students' marks.
+The system can:
 1. Calculate the Average
 2. Find the Highest Mark
 3. Find the Lowest Mark
